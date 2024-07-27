@@ -21,8 +21,6 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jayantxchauhan)
 - 🐦 [Twitter](https://x.com/jayant_chauhan3)
 
-## 😄 Pronouns: He/Him
-
 ## ⚡ Fun fact:
 I'm a passionate engineer with a knack for problem-solving and a love for technology.
 When I'm not coding, you can find me exploring the latest in electric vehicle technology or experimenting with new recipes in the kitchen. 🍲
