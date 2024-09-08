@@ -4,7 +4,6 @@
 - 🚗 Electric Vehicle Technology
 - 💻 Programming and Web Development
 - 📊 Data Science and Analysis
-- 🎨 Creative Design
 
 ## 🌱 I’m currently learning:
 - 📱 Mobile App Development
